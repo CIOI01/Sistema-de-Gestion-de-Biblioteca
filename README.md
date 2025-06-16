@@ -42,9 +42,6 @@ gestion-biblioteca/
 └── README.md            # Este archivo
 ```
 
-
-![Listado de Libros](https://via.placeholder.com/600x400?text=Listado+de+Libros)
-
 ## 🛠️ Funcionalidades Detalladas
 
 ### Agregar Libro
@@ -84,4 +81,4 @@ gestion-biblioteca/
 Este proyecto está bajo la licencia MIT. Ver [LICENSE](LICENSE) para más detalles.
 
 ---
-✨ Desarrollado con Python por [Tu Nombre]
+✨ Desarrollado con Python por [CIOI]
